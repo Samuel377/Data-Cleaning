@@ -1,7 +1,8 @@
 # Data-Cleaning
 Cleaning dirty data using MySQL
 
-Introduction
+Introduction.
+
 Data cleaning is an essential step in data preprocessing to ensure the quality and reliability of your dataset. This README provides a guide on how to perform data cleaning using SQL. It covers common data cleaning tasks and offers best practices to help you maintain clean and accurate data.
 
 Requirements
